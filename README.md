@@ -1,2 +1,1 @@
-# weather-app
-Simple weather app; fetch data using weatherapi
+template repo for future projects
